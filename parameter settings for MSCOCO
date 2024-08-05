@@ -1,0 +1,24 @@
+1. ALECH
+alpha = 1e-5, beta = 1e-3, lambda = 1e4, eta = 1e-3
+2. FCMH
+p = min(c,25), alpha1 = 100, alpha2 = 10, beta1 = 10, beta2 = 10, gamma = 0.1, ksi = 1, n_map = 5000, d_map = 200
+3. BATCH
+eta1 = 0.05, eta2 = 0.05, eta0 = 0.9, omega = 0.01, ksi_x = 0.01, ksi_y = 0.01
+4. HCCH
+alpha = 1e-2, beta = 10, lambda = 1e-4
+5. EDH
+lambda = 0.5, mu = 0.5, gamma = 1e2, alpha = 1e4, beta = 1e4
+6. RDMH
+lambda_X = 0.5, beta = 1, lambda = 10, theta = 1e-6, eta = 1e-3
+7. SCRATCH
+lambdaX = 0.5, alpha = 500, Xmu = 1000, gamma = 5
+8. SDMSA
+lambdaX = 0.5, beta = 1e-5, lambda = 1e-3, gamma = 10, theta = 1e-5
+9. DLCDE
+alpha1 = 0.6, beta = 0.1, gamma = 0.5, mu = 1e3, ksi = 1e-3, omega = 0.1, eta = 0.5, lambda = 0.1
+10. DCH
+muV = 1, muT = 1e-2
+11. FSH
+k = 100, mu = 0.05
+12. LCMFH
+lambda = 0.5, mu = 10, gamma = 0.01
